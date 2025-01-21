@@ -1,4 +1,4 @@
-## Hi there 👋
+## Joshua J. Yu | Hello! Welcome to my GitHub profile!
 
 <!--
 **joshua-jy-yu/joshua-jy-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
