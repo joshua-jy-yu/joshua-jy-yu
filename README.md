@@ -1,5 +1,10 @@
-## Joshua J. Yu | Hello! Welcome to my GitHub profile!
+# Joshua J. Yu | Here are my projects!
+## Comparison of Regression Models on Predicting Medical Costs
+- A machine learning project developed in *UVA CS 4774 Machine Learning* with Professor Nguyen
+- I developed a model that takes in historical medical cost data to predict medical insurance costs based on factors such as age, sex, and bmi
+- Using Batch Gradient Descent and Normal Equation, we can optimize the linear regression model to perform with mean average error of $33,596,915.85.
 
+DS 2002
 <!--
 **joshua-jy-yu/joshua-jy-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
