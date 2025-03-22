@@ -1,4 +1,4 @@
-# Joshua J. Yu | Here are my projects!
+# Joshua J. Yu | Projects
 ## Comparison of Regression Models on Predicting Medical Costs
 - A machine learning project developed in *UVA CS 4774 Machine Learning* with Professor Nguyen
 - I developed a model that takes in historical medical cost data to predict medical insurance costs based on factors such as age, sex, and bmi
