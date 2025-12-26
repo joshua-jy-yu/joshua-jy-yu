@@ -1,5 +1,4 @@
 # Projects
-## Comparison of Regression Models on Predicting Medical Costs
 
 <!--
 **joshua-jy-yu/joshua-jy-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
